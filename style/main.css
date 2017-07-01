@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrapper{
+    margin : 0 auto;
+     width: 200px;
+}
+#box{
+    border-radius: 5px;
+    width: 180px;
+    height: 40px;
+    line-height: 20px;
+    margin: 2px;
+    padding: 4px;
+    padding-left: 8px;    
+    font-size: 150%;
+    font-weight: 900;
+    background-color: white;
+    color: olivedrab;
+    border :2px dotted olivedrab;
+    display: inline-block;
+    text-align: right;
+    overflow: visible;
+    text-overflow: inherit;
+}
+.btn{
+    border-radius: 5px;
+    width: 60px;
+    height: 40px;
+    line-height: 20px;
+    font-size: 150%;
+    font-weight: 900;
+    margin: 2px;
+    background-color: olivedrab;
+    color: white;
+    border :2px dotted white;
+    display: inline-block;
+
+}
+
+.bt1{
+    line-height: 44px;
+    font-size: 12px;
+    font-weight: 900;
+
+}
